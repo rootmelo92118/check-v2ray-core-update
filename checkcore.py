@@ -1,4 +1,4 @@
-import os,urllib.request, json,zipfile,argparse,wget
+import os,urllib.request,json,zipfile,argparse,wget
 
 def switchs(resourcePath,executableFilePath,version):
     try:
