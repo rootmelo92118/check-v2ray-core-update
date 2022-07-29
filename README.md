@@ -1,4 +1,4 @@
-# Check-v2ray-core-update
+# check-v2ray-core-update
 
 Dependence library
 
